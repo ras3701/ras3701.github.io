@@ -88,7 +88,7 @@ nav i {
 
 /* main */
 
-/*main {
+main {
   background: url(../../assets/img/bg.png) repeat;
   padding-left: 190px;
 }
@@ -183,7 +183,7 @@ h3 {
 
 .full-height {
   height: 100vh;
-}*/
+}
 
 /* Original */
 
@@ -202,9 +202,7 @@ h3 {
 
 #intro.section .container *:not(span) {
   font-weight: 300;
-  /* font-weight: 400; */
   line-height: 150%;
-  /* padding: 0 0px; */
   text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
 }
 
