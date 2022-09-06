@@ -76,9 +76,9 @@ dt {
   margin-left: 0.5rem;
 }
 
-ul.side-nav {
+/*ul.side-nav {
   /*width: 190px; rohan*/
-  width: 0px;
+  /*width: 0px;
 }
 
 ul.side-nav li {
@@ -130,7 +130,7 @@ li.logo span {
   line-height: inherit;
   margin: inherit;
   font-weight: inherit;
-}
+}*/
 
 .container {
   width: 95%;
