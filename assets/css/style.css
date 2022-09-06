@@ -117,7 +117,8 @@ ul.side-nav li {
 }
 
 ul.side-nav.fixed a {
-  box-sizing: content-box;
+  /*box-sizing: content-box;*/
+  box-sizing: border-box;
   color: rgb(16, 202, 56);
   display: block;
   line-height: 100%;
@@ -132,7 +133,8 @@ ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:hover {
 ul.side-nav.fixed li.logo {
   background-color: #fafafa;
   border-bottom: 1px solid #ddd;
-  box-sizing: content-box;
+  /*box-sizing: content-box;*/
+  box-sizing: border-box;
   min-height: 90px;
   padding: 30px 30px 40px;
 }
