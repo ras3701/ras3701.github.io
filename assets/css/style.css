@@ -20,7 +20,7 @@
   height: auto;
 }
 
-.icon-btn {
+/*.icon-btn {
   margin-left: auto;
   width: 50px;
   height: 50px;
@@ -37,7 +37,7 @@
 .icon-btn:hover {
   transform: scale(1.10);
   color: #FFFFFF;
-}
+}*/
 
 /* main body */
 
@@ -231,7 +231,7 @@ h3 {
   background-color: rgba(33, 150, 243, 0.2);
 }
 
-.card {
+/*.card {
   margin-bottom: 60px;
 }
 
@@ -325,11 +325,11 @@ a.hoverline {
   transition: 0.25s all;
   -moz-transition: 0.25s all;
   -webkit-transition: 0.25s all;
-}
+}*/
 
 /* main a.hoverline */
 
-a.hoverline:hover {
+/*a.hoverline:hover {
   border-bottom: 3px solid #004d40 !important;
 }
 
@@ -401,27 +401,19 @@ small {
 
 .grey-text {
   color: #666 !important;
-}
+}*/
 
 /* main .teal-text */
 
-.teal-text {
+/*.teal-text {
   color: #008073 !important;
-}
-
-/* .teal-text {
-  color: #0b5e86 !important;
-} */
+}*/
 
 /* .teal */
 
-.teal {
+/*.teal {
   background-color: #008073 !important;
 }
-
-/* .teal {
-  background-color: #00695c !important;
-} */
 
 @media (min-width: 1200px) {
   #experience .container {
@@ -547,5 +539,5 @@ small {
   }
   #intro.section {
     background-position-x: 30%;
-  }
+  }*/
 }
